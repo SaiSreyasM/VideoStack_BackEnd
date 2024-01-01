@@ -1,0 +1,116 @@
+{
+  "videos": [
+    {
+      "title": "LEO - Naa Ready Song Video",
+      "coverImg": "https://i.ytimg.com/vi/3wDiqlTNlfQ/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/3wDiqlTNlfQ?autoplay=1",
+      "id": 2
+    },
+    {
+      "title": "Kesariya - Brahmāstra",
+      "coverImg": "https://i.postimg.cc/1X0GTKxs/maxresdefault-1.jpg",
+      "videoUrl": "https://www.youtube.com/embed/BddP6PYo2gs?autoplay=1",
+      "id": 3
+    },
+    {
+      "title": "King - Tu Aake Dekhle",
+      "coverImg": "https://i.postimg.cc/W3xB1TfX/maxresdefault-4.jpg",
+      "videoUrl": "https://www.youtube.com/embed/A66TYFdz8YA?autoplay=1",
+      "id": 6
+    },
+    {
+      "title": "Maan Meri Jaan",
+      "coverImg": "https://i.postimg.cc/Hx0CB34T/maxresdefault-5.jpg",
+      "videoUrl": "https://www.youtube.com/embed/VuG7ge_8I2Y?autoplay=1",
+      "id": 7
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "title": "Hindi",
+      "videos": [
+        {
+          "title": "King - Tu Aake Dekhle",
+          "coverImg": "https://i.postimg.cc/W3xB1TfX/maxresdefault-4.jpg",
+          "videoUrl": "https://www.youtube.com/embed/A66TYFdz8YA?autoplay=1",
+          "id": 6
+        },
+        {
+          "title": "Kesariya - Brahmāstra",
+          "coverImg": "https://i.postimg.cc/1X0GTKxs/maxresdefault-1.jpg",
+          "videoUrl": "https://www.youtube.com/embed/BddP6PYo2gs?autoplay=1",
+          "id": 3
+        },
+        {
+          "title": "Maan Meri Jaan",
+          "coverImg": "https://i.postimg.cc/Hx0CB34T/maxresdefault-5.jpg",
+          "videoUrl": "https://www.youtube.com/embed/VuG7ge_8I2Y?autoplay=1",
+          "id": 7
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tamil",
+      "videos": [
+        {
+          "title": "LEO - Naa Ready Song Video",
+          "coverImg": "https://i.ytimg.com/vi/3wDiqlTNlfQ/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/3wDiqlTNlfQ?autoplay=1",
+          "id": 2
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "title": "Kesariya - Brahmāstra",
+      "videoUrl": "https://www.youtube.com/embed/BddP6PYo2gs?autoplay=1",
+      "time": "29-12-2023, 11:12 AM",
+      "id": 1
+    },
+    {
+      "title": "King - Tu Aake Dekhle",
+      "videoUrl": "https://www.youtube.com/embed/A66TYFdz8YA?autoplay=1",
+      "time": "29-12-2023, 11:12 AM",
+      "id": 2
+    },
+    {
+      "title": "Kesariya - Brahmāstra",
+      "videoUrl": "https://www.youtube.com/embed/BddP6PYo2gs?autoplay=1",
+      "time": "29-12-2023, 11:12 AM",
+      "id": 3
+    },
+    {
+      "title": "Maan Meri Jaan",
+      "videoUrl": "https://www.youtube.com/embed/VuG7ge_8I2Y?autoplay=1",
+      "time": "01-01-2024, 06:01 PM",
+      "id": 4
+    },
+    {
+      "title": "Kesariya - Brahmāstra",
+      "videoUrl": "https://www.youtube.com/embed/BddP6PYo2gs?autoplay=1",
+      "time": "01-01-2024, 06:01 PM",
+      "id": 5
+    },
+    {
+      "title": "Kesariya - Brahmāstra",
+      "videoUrl": "https://www.youtube.com/embed/BddP6PYo2gs?autoplay=1",
+      "time": "01-01-2024, 06:01 PM",
+      "id": 6
+    },
+    {
+      "title": "Kesariya - Brahmāstra",
+      "videoUrl": "https://www.youtube.com/embed/BddP6PYo2gs?autoplay=1",
+      "time": "01-01-2024, 06:01 PM",
+      "id": 7
+    },
+    {
+      "title": "King - Tu Aake Dekhle",
+      "videoUrl": "https://www.youtube.com/embed/A66TYFdz8YA?autoplay=1",
+      "time": "01-01-2024, 06:01 PM",
+      "id": 8
+    }
+  ]
+}
